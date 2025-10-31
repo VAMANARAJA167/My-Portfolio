@@ -33,7 +33,7 @@ export const ProjectList = [
     demo_url: "http://field-sync-pwa.vercel.app",
   },
   {
-    img: "Movie-verse.png",
+    img: "/Movie-verse.png",
     title: "Movieverse",
     description:"A responsive React application for discovering movies, utilizing a live API for data, React Router for navigation, and Framer Motion for a fluid, animated user interface.",
     tech_stack: ["Axios", "Framer-motion", "TMDP Api", "Slick-carousel"],
