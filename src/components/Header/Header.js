@@ -5,7 +5,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
 
 const Header = ({ toggle }) => {
-  const pdfPath = "/Vamanaraja_Resume.pdf";
+  const pdfPath = "/Vamana_Raja.pdf";
   return (
     <div className="Container" style={{padding: 0}}>
       <Nav>
